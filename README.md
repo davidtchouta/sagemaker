@@ -11,7 +11,7 @@ Build, train and deploy models in AWS Sagemaker ===> covered today 🏃
 
 Build Gradio app 
 
-Build Gradio app and deploy in Hugging Face
+Build Gradio app and deploy in Hugging Face 
 
 Build Streamlit app
 
